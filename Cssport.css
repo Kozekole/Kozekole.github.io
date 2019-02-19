@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	font-family: Helvetica, Arial, "sans-serif";
+	color: white;
+}
+
+.Welcome {
+  background-image: url("Welcome.png");
+  position: absolute;
+  left: 116px;
+  top: 94px;
+  width: 299px;
+  height: 109px;
+  z-index: 2;
+}
+
+
+.Logo {
+  background-image: url("Logo.png");
+  position: absolute;
+  left: 453px;
+  top: 194px;
+  width: 499px;
+  height: 500px;
+  z-index: 2;
+}
+
+
+.BG {
+  background-image: url("BG.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 862px;
+}
+
+
+.FlavorTXT {
+  background-image: url("FlavorTXT.png");
+  position: absolute;
+  left: 1040px;
+  top: 738px;
+  width: 243px;
+  height: 38px;
+  z-index: 2;
+}
+
+
+.insta_logo {
+  background-image: url("instagram_logo.png");
+  position: absolute;
+  left: 116px;
+  top: 701px;
+  width: 69px;
+  height: 69px;
+  z-index: 2;
+}
+
+.Box1 {
+  position: absolute;
+  left: 403px;
+  top: 184px;
+  width: 250px;
+  height: 250px;
+  z-index: 1;
+}
+
+.Box1 h1{
+	position: absolute;
+	left: 0%;
+}
+
+.Box2 {
+  position: absolute;
+  left: 723px;
+  top: 184px;
+  width: 250px;
+  height: 250px;
+  z-index: 1;
+}
+
+.Box2 h1{
+	position: absolute;
+	right: 0%;
+}
+
+.Box3 {
+  position: absolute;
+  left: 733px;
+  top: 454px;
+  width: 250px;
+  height: 250px;
+  z-index: 1;
+}
+
+.Box3 h1{
+	position: absolute;
+	bottom: 0%;
+	right: 0%;
+}
+
+.Box4 {
+  position: absolute;
+  left: 403px;
+  top: 454px;
+  width: 250px;
+  height: 250px;
+  z-index: 1;
+}
+
+.Box4 h1{
+	position: absolute;
+	bottom: 0%;
+}
